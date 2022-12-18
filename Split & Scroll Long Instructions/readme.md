@@ -37,6 +37,8 @@ The template works using a single text question and a Loop & Merge, which avoids
 
 2. Create an "Instructions" block with a single question. Enable Loop & Merge on the block and create N loops wihtout any field values. Make sure "Loop based off of a question" and "Randomize loop order" remain disabled.
 
+![Loop & merge screenshot](loop_merge_screenshot.png)
+
 3. Enable the question's Javascript and paste the following code into it:
 
 ```
